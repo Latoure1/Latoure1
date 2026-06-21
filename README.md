@@ -98,14 +98,7 @@
 - **Pipeline CI/CD sécurisé** : GitHub → Jenkins → SonarQube → OWASP Dependency-Check → Hadolint → Trivy → Docker Hub → Ansible → HashiCorp Vault → Wazuh.
 
 ### 🚀 Projets entrepreneuriaux
-- **Yaafong** : studio tech (branding, catalogue de services, identité visuelle) pour l'Afrique de l'Ouest.
-- **Entriva** : plateforme de préparation aux entretiens propulsée par l'IA (React + Django + DRF).
+- **Yaafong** : studio tech (branding, catalogue de services, identité visuelle).
+- **Entriva** : plateforme de préparation aux entretiens propulsée par l'IA (React + Django).
 - **Shiftly** : SaaS PWA de gestion de planning pour entreprises marocaines.
 
----
-
-## 📊 Activité GitHub
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Latoure1&theme=tokyo-night&hide_border=true&area=true&custom_title=Contributions" alt="Graphe d'activité des contributions"/>
-</p>
