@@ -104,17 +104,8 @@
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 Activité GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Latoure1&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Latoure1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Latoure1&theme=tokyo-night&hide_border=true&area=true&custom_title=Contributions" alt="Graphe d'activité des contributions"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Latoure1&theme=tokyonight&hide_border=true" alt="Streak"/>
-</p>
-
----
-
-<p align="center"><sub>🔐 « La sécurité n'est pas un produit, c'est un processus. »</sub></p>
