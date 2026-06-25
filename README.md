@@ -52,7 +52,7 @@
 -  **CompTIA Security+** *(en cours)*
 
 **Cybersécurité générale & SOC**
--  **[Google Cybersecurity](https://www.coursera.org/specializations/google-cybersecurity)** — Coursera
+-  **Google Cybersecurity** — Coursera
 -  **Analyste en Cybersécurité** — Coursera *(en cours)*
 -  **Fortinet NSE 1** *(en cours)*
 -  **ANSSI — SecNum Académie**
