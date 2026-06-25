@@ -25,11 +25,11 @@
 
 ##  Ce que je suis en train d'explorer
 
--  **Sécurité offensive** — pentest **web, réseau et mobile** : SQL injection, XSS, IDOR, **JWT & authentification**, command injection, SSRF, broken access control (méthodologie OWASP WSTG).
--  **DevSecOps** — Intégration Continue & Déploiement Continu (**CI/CD**) avec contrôles de sécurité intégrés (SAST, SCA, scan d'images, secrets management).
--  **Recherche IA & Sécurité** — **Machine Learning, Deep Learning, Gen AI & RAG**, adversarial ML, sécurité des LLM, détection d'intrusion.
--  **Conformité réglementaire** — LCB-FT, CNDP, ISO 27001 pour les fintechs africaines.
--  **Yaafong** — studio tech orienté clients institutionnels en Afrique de l'Ouest.
+-  **Sécurité offensive** - pentest **web, réseau et mobile** : SQL injection, XSS, IDOR, **JWT & authentification**, command injection, SSRF, broken access control (méthodologie OWASP WSTG).
+-  **DevSecOps** - Intégration Continue & Déploiement Continu (**CI/CD**) avec contrôles de sécurité intégrés (SAST, SCA, scan d'images, secrets management).
+-  **Recherche IA & Sécurité** - **Machine Learning, Deep Learning, Gen AI & RAG**, sécurité des LLM, détection d'intrusion.
+-  **Conformité réglementaire** - LCB-FT, CNDP, ISO 27001 pour les fintechs africaines.
+-  **Yaafong** - studio tech orienté clients institutionnels en Afrique de l'Ouest.
 
 ##  Compétences techniques
 
@@ -47,43 +47,43 @@
 
 **Sécurité offensive**
 -  **Cisco Ethical Hacker**
--  **eJPT — eLearnSecurity Junior Penetration Tester** *(en cours)*
--  **TryHackMe — Jr Penetration Tester (PT1)** *(en cours)*
+-  **eJPT - eLearnSecurity Junior Penetration Tester** *(en cours)*
+-  **TryHackMe - Jr Penetration Tester (PT1)** *(en cours)*
 -  **CompTIA Security+** *(en cours)*
 
 **Cybersécurité générale & SOC**
--  **Google Cybersecurity** — Coursera
--  **Analyste en Cybersécurité** — Coursera *(en cours)*
+-  **Google Cybersecurity** - Coursera
+-  **Analyste en Cybersécurité** - Coursera *(en cours)*
 -  **Fortinet NSE 1** *(en cours)*
--  **ANSSI — SecNum Académie**
+-  **ANSSI - SecNum Académie**
 
 **Réseaux & Systèmes (Cisco Networking Academy)**
 -  Support et sécurité des réseaux · Défense du réseau · Networking Basics
 -  Introduction to Cybersecurity · Linux Essentials V2
 
 **Cloud, Data & Linux**
--  **AWS Academy** — Cloud Architecting · Data Engineering · AWS Cloud Fundamentals
+-  **AWS Academy** - Cloud Architecting · Data Engineering · AWS Cloud Fundamentals
 -  **IBM Data Science**
 -  **Introduction to Automotive Cybersecurity & Vehicle Networks**
 -  **Linux Commands** (IBM/Coursera) · **Shell Scripting** (Coursera)
 
 ##  Formations & Labs pratiques
 
--  **PortSwigger Web Security Academy** — 20+ labs complétés (SQL injection, XSS, JWT, authentification, IDOR, command injection).
--  **TryHackMe** — parcours *Jr Penetration Tester*, CTF web résolus.
--  **HackTheBox** — parcours *Starting Point* (Tier 0–2).
--  **MISP / CTI** — threat intelligence, STIX 2.1, mapping APT (campagne MuddyWater).
--  **AWS Academy Labs** — S3 Resource-Based Policies, VPC Security Groups, IAM.
+-  **PortSwigger Web Security Academy** - 20+ labs complétés (SQL injection, XSS, JWT, authentification, IDOR, command injection).
+-  **TryHackMe** - parcours *Jr Penetration Tester*, CTF web résolus.
+-  **HackTheBox** - parcours *Starting Point* (Tier 0–2).
+-  **MISP / CTI** - threat intelligence, STIX 2.1, mapping APT (campagne MuddyWater).
+-  **AWS Academy Labs** - S3 Resource-Based Policies, VPC Security Groups, IAM.
 
 ##  Portfolio de Projets
 
 ###  Sécurité offensive & Pentest
-- **Audit WSTG — Plateforme fintech** : pentest web complet d'une application KYC/AML selon OWASP WSTG (recon, analyse JWT, mapping d'endpoints, test d'injections).
+- **Audit WSTG - Plateforme fintech** : pentest web complet d'une application KYC/AML selon OWASP WSTG (recon, analyse JWT, mapping d'endpoints, test d'injections).
 - **Rapport pentest web pro** : audit documenté de 20 pages (scores CVSS, PoC, recommandations actionnables) sur environnement de lab.
 - **Pentest Jenkins** : exploitation (Metasploit + Groovy Script Console), énumération Nmap, contre-mesures — rapport LaTeX.
 
 ###  Architecture réseau & Défense
-- **PACTE — Architecture de sécurité réseau** : 2 architectures (CIH Bank & CHU Ibn Rochd) sous Cisco Packet Tracer — 8 zones, Defense in Depth, VPN IPSec IKEv1 AES-256, WALLIX-PAM, 17+ règles ACL, modèle Zero Trust.
+- **PACTE - Architecture de sécurité réseau** : 2 architectures (CIH Bank & CHU Ibn Rochd) sous Cisco Packet Tracer — 8 zones, Defense in Depth, VPN IPSec IKEv1 AES-256, WALLIX-PAM, 17+ règles ACL, modèle Zero Trust.
 - **NAC PacketFence** : contrôle d'accès réseau granulaire — VMs, IPs statiques, segmentation réseau.
 - **Audit & Architecture NIST 2.0** : analyse de risques sectoriels (Finance, Santé) selon le framework NIST, proposition d'architectures sécurisées.
 
